@@ -1,28 +1,55 @@
-# Final Project - Interactive Personal Profile Website
+# Portfolio Website
 
-## Overview
+Portfolio website pribadi yang dibangun dengan HTML5, CSS3, dan JavaScript vanilla.
 
-This is the final project that integrates all concepts learned from Modul 1-5. Students will create a comprehensive, interactive personal profile website that demonstrates mastery of HTML, CSS, JavaScript, and DOM manipulation.
+## Features
 
-## Project Structure
+- ✨ Responsive design
+- 🌙 Dark/Light mode toggle
+- 📱 Mobile-friendly navigation
+- 🎨 Modern UI/UX design
+- 📧 Contact form dengan validasi
+- 🚀 Smooth scrolling dan animasi
+- 💼 Portfolio showcase dengan filter
 
-- **1. Starter/**: Initial code structure for students to begin
-- **2. Finished/**: Complete implementation with all features
-- **Final Project Guide.md**: Comprehensive guide for building the project
+## Tech Stack
 
-## Features to Implement
+- **Frontend**: HTML5, CSS3, JavaScript (Vanilla)
+- **Icons**: Font Awesome
+- **Fonts**: Google Fonts (Inter)
+- **Deployment**: GitHub Pages
 
-- Responsive HTML structure with semantic elements
-- Modern CSS styling with Flexbox/Grid layouts
-- Interactive JavaScript functionality
-- Form validation and user feedback
-- Dark mode toggle
-- Local storage integration
-- Smooth animations and transitions
+## Live Demo
 
-## Learning Objectives
+Website ini dapat diakses di: [GitHub Pages URL]
 
-- Integrate all concepts from previous modules
-- Build a complete, production-ready website
-- Apply best practices in web development
-- Create an engaging user experience
+## Installation
+
+1. Clone repository ini:
+
+```bash
+git clone https://github.com/username/portfolio-website.git
+```
+
+2. Buka file `index.html` di browser
+
+## Usage
+
+Website ini siap digunakan langsung tanpa perlu build process. Cukup buka `index.html` di browser atau deploy ke GitHub Pages.
+
+## Customization
+
+- Edit `script.js` untuk mengubah data portfolio dan skills
+- Edit `styles.css` untuk mengubah styling
+- Edit `index.html` untuk mengubah konten
+
+## Browser Support
+
+- Chrome (latest)
+- Firefox (latest)
+- Safari (latest)
+- Edge (latest)
+
+## License
+
+MIT License
