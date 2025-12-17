@@ -473,10 +473,10 @@ window.addEventListener("load", () => {
 
 // Console welcome message
 console.log(`
-🚀 Welcome to Imam Taufiq Hermawan's Portfolio!
-📧 Contact: ahmad.rizki@example.com
-💼 Portfolio: Interactive Personal Profile Website
-🎨 Built with: HTML5, CSS3, JavaScript
+Welcome to Aiman Portfolio!
+Contact: aiman@example.com
+Portfolio: Interactive Personal Profile Website
+Built with: HTML5, CSS3, JavaScript
 `);
 
 // Add some fun interactions

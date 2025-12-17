@@ -19,16 +19,15 @@ After completing this project, students will be able to:
 ## Project Structure
 
 ```
-Final Project - Interactive Personal Profile Website/
-├── 1. Starter/                 # Initial code for students to begin
-│   ├── index.html             # Basic HTML structure
-│   ├── styles.css             # Empty CSS file for styling
-│   └── script.js              # Empty JavaScript file for functionality
-├── 2. Finished/               # Complete implementation
-│   ├── index.html             # Full HTML with all features
-│   ├── styles.css             # Complete CSS with animations
-│   └── script.js              # Full JavaScript functionality
-└── Final Project Guide.md     # This comprehensive guide
+Komdigi-FSD-Beginner-Final-Project-Finished/
+├── index.html                 # File HTML utama dengan semua fitur
+├── css/
+│   └── styles.css             # File CSS lengkap dengan animations
+├── js/
+│   └── script.js              # File JavaScript lengkap dengan functionality
+├── assets/                    # Folder untuk gambar dan assets lainnya
+├── README.md                  # Dokumentasi project
+└── Final Project Guide.md     # Panduan lengkap project ini
 ```
 
 ## Features to Implement
@@ -75,7 +74,7 @@ Final Project - Interactive Personal Profile Website/
        <meta charset="UTF-8" />
        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
        <title>Profil Saya - Final Project</title>
-       <link rel="stylesheet" href="styles.css" />
+       <link rel="stylesheet" href="css/styles.css" />
        <link
          href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
          rel="stylesheet"
